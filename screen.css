@@ -1,5 +1,8 @@
 html {
   color: white;
   background: red;
+}
 
+.js {
+  border-top: 11px solid white;
 }
